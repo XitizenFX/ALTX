@@ -1,53 +1,59 @@
-  CitizenFX/FiveM are (c) 2017-2020 the CitizenFX Collective.
+Fivez – A Custom Fork of CitizenFX
+Copyright (c) 2025 SitizenFX (Elijah Siita / VidllQ Authority)
 
-  Use of this source code is subject to the terms provided on the CitizenFX
-Collective web site, currently versioned (4) at the following web URL:
+Use of this source code is subject to the terms provided on the SitizenFX
+Collective website, currently version 4, available at:
 
-  https://fivem.net/terms
+    https://fivez.net/terms
 
-  The following files, as long as they are marked as licensed under the
-CitizenFX Project license, are optionally available under the LGPLv2, as in
-point 21) of the FiveM Platform Service Agreement, as of the time of this
-writing:
+The following files, as long as they are marked as licensed under the
+CitizenFX Project license, are optionally available under the MIT License,
+as in the legacy notice below, as of the time of this writing:
 
-  client/shared/
-  client/citicore/
-  client/launcher/
-  client/common/
-  tools/
-  components/citizen-*/
-  components/font-renderer/
-  components/vfs-core/
-  components/steam/
-  vendor/*.lua
-  ./
+    client/shared/
+    client/citicore/
+    client/launcher/
+    client/common/
+    tools/
+    components/citizen-*/
+    components/font-renderer/
+    components/vfs-core/
+    components/steam/
+    vendor/*.lua
+    ./
 
-  When using other components, please take into account point 20) in the FiveM
-PSA.
+When using other components, please review the SitizenFX Proprietary License terms.
 
-  This project is based on the original CitizenFX framework by NTAuthority,
-the original permission notice of which is reproduced below.
+This project is based on the original CitizenFX framework by NTAuthority.
+The original permission notice is reproduced below for legacy components.
+Please note that this notice does NOT apply to any changes made since 2016.
 
-  Please note that this permission notice does not apply to any changes made
-since 2016.
+---
 
-Copyright (c) 2014 Bas Timmer/NTAuthority et al.
+MIT License (for legacy CitizenFX components only)
+Copyright (c) 2014 Bas Timmer / NTAuthority et al.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+copies of the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+SitizenFX Proprietary Notice
+All modifications, new modules, scripts, UI, tools, and branding created
+since the fork are the exclusive property of SitizenFX / Elijah Siita (VidllQ Authority).
+Unauthorized use, redistribution, or tampering with proprietary components is prohibited
+and protected under international copyright law (including the Berne Convention).
 
