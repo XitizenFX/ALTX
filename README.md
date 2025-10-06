@@ -1,4 +1,4 @@
-# 🚀 SitizenFX / FiveZ – Version 2.0 (September 2025)
+# 🚀 SitizenFX / FiveZ – Version 1.0 (September 2025)
 
 **vidlluc Engine** is the next-generation version of FiveZ, a proprietary multiplayer and game framework developed and maintained by **Sfx.re Limited**.  
 It is a custom fork of the **CitizenFX framework**, expanded with new systems, branding, and modules to deliver high-performance multiplayer on dedicated servers.
